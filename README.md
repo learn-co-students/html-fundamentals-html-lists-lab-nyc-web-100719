@@ -98,7 +98,7 @@ us to easily display related and nested content in a readable format.
 
 The first part of this challenge is to make the first 2 tests pass by:
 
-1. Creating an unordered list 
+1. Creating an unordered list
 2. Nesting each grilled cheese ingredient as a list item wrapped in `<li>` tags
 
 Start up `httpserver` or open `index.html` in your browser. Let's say we wanted
@@ -112,7 +112,7 @@ but there are more tests to pass! We now need to turn our attention to the next
 test.
 
 Okay, now, lets say we wanted to make our grilled cheese a little more exciting
-and add a couple of cheeses, `cheddar`, `mozzarella`, and `pepper jack`.
+and add a couple of cheeses, .
 
 To pass the second test, inside the `li` of `4 slices of cheese`, add a nested
 unordered list that lists out the three types of cheese.
@@ -172,7 +172,7 @@ following example will be displayed the same as the previous:
 
 To complete the challenge write the necessary HTML to pass the tests:
 
-3. Create an ordered list 
+3. Create an ordered list
 4. Nest each step for creating grilled cheese as a list item wrapped in `<li>` tags
 
 Okay, so we've got our grilled cheese ingredients, but what about the steps
@@ -184,7 +184,7 @@ with a square of butter. The steps to making a basic grilled cheese would be:
 fry for 2 minutes`
 
 ***
-Once you've written an ordered list that displays these 5 steps correctly, run `learn` 
+Once you've written an ordered list that displays these 5 steps correctly, run `learn`
 to see the tests pass.
 ***
 
@@ -199,6 +199,3 @@ remove the bullets, make them line up horizontally, but in our HTML they will
 still be organized and easy to read.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-lists' title='HTML Lists'>HTML Lists</a> on Learn.co and start learning to code for free.</p>
-
-
-
